@@ -1,8 +1,11 @@
 ---
 title: "Technical Steering Committee"
-date: 2021-02-10T11:41:14Z
-draft: true
+date: 2021-09-03
+draft: false
 description: "Core developers and maintainers"
+weight: 2
+aliases:
+  - "/docs/team/tsc"
 ---
 
 The Technical Steering Committee (TSC) is a team of people who are responsible
@@ -278,8 +281,8 @@ to facilitate communication when IRC is not practical.
 ### kernelci.org update emails
 
 Emails are sent regularly with a summary of the changes going into production
-and minutes from the various [TSC](/docs/team/tsc) and
-[board](/docs/team/board) meetings.
+and minutes from the various [TSC](/docs/org/tsc) and
+[board](/docs/org/board) meetings.
 
 * Maintainers: `gtucker`
 
