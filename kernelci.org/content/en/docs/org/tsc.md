@@ -1,8 +1,9 @@
 ---
 title: "Technical Steering Committee"
-date: 2021-02-10T11:41:14Z
-draft: true
+date: 2021-09-03
+draft: false
 description: "Core developers and maintainers"
+weight: 2
 ---
 
 The Technical Steering Committee (TSC) is a team of people who are responsible
